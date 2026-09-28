@@ -1,0 +1,149 @@
+{
+  "hienDai": {
+    "file": "sample_2.png",
+    "tag": "SPECIALTY BAR  |  MATCHA VÀ COLD BREW",
+    "title": "NEON SLATE CAFE",
+    "sub": "Thực đơn matcha Uji, cold brew 18h và nitro",
+    "cat1": "MATCHA SIGNATURE",
+    "items1": [
+      { "n": "Uji Matcha Latte", "p": "58.000đ", "d": "Bột matcha grade A, sữa yến mạch, bọt vàng nhẹ" },
+      { "n": "Iced Ceremonial Matcha", "p": "72.000đ", "d": "Matcha ceremonial, nước 80°C, đá viên trong" },
+      { "n": "Matcha Cloud Cheese", "p": "65.000đ", "d": "Matcha đậm, kem cheese muối béo, bột matcha" },
+      { "n": "Hojicha Roasted Latte", "p": "55.000đ", "d": "Lá trà rang Nhật, sữa tươi, hậu vị hạt dẻ" },
+      { "n": "Yuzu Matcha Sparkling", "p": "62.000đ", "d": "Matcha, yuzu tươi, soda lạnh, vỏ chanh" }
+    ],
+    "cat2": "COLD BREW VÀ NITRO",
+    "items2": [
+      { "n": "Cold Brew 18 Giờ", "p": "49.000đ", "d": "Arabica Cầu Đất ngâm lạnh, hậu vị chocolate" },
+      { "n": "Nitro Cold Brew", "p": "59.000đ", "d": "Bơm nitơ, cream cascade, không đá" },
+      { "n": "Orange Cold Brew Tonic", "p": "55.000đ", "d": "Cold brew, tonic, cam tươi, vỏ cam" }
+    ],
+    "comboTag": "COMBO AFTERNOON FOCUS",
+    "comboName": "01 Uji Matcha Latte + 01 Croissant Bơ",
+    "comboPrice": "89.000đ",
+    "comboNote": "Tiết kiệm 24.000đ  |  13:00 - 17:00 hàng ngày"
+  },
+  "sangTrong": {
+    "file": "sample_2.png",
+    "tag": "ROYAL SALON  -  AFTERNOON TEA",
+    "title": "MAJESTIC GOLD",
+    "sub": "High tea, espresso martini và petit fours",
+    "cat1": "PETIT FOURS VÀ SAVORIES",
+    "items1": [
+      { "n": "Smoked Salmon Finger", "p": "95.000đ", "d": "Bánh mì brio, cá hồi xông khói, thì là" },
+      { "n": "Truffle Egg Sandwich", "p": "88.000đ", "d": "Trứng luộc, mayo tartufo, microgreen" },
+      { "n": "Mini Beef Wellington", "p": "125.000đ", "d": "Thịt bò Wagyu, nấm, vỏ puff" },
+      { "n": "Lemon Curd Tartlet", "p": "72.000đ", "d": "Vỏ shortcrust, curd chanh, merengue" }
+    ],
+    "cat2": "THỨC UỐNG ĐẶC TRƯNG",
+    "items2": [
+      { "n": "Earl Grey Royal", "p": "68.000đ", "d": "Trà Earl Grey, hoa nhài, sữa yến" },
+      { "n": "Espresso Martini Gold", "p": "145.000đ", "d": "Vodka, espresso, siro vani, lá vàng" },
+      { "n": "Champagne Afternoon", "p": "189.000đ", "d": "Prosecco, siro elderflower, đào" },
+      { "n": "Velvet Hot Chocolate", "p": "79.000đ", "d": "Cacao 70%, kem tươi, marshmallow" }
+    ],
+    "comboTag": "HIGH TEA FOR TWO",
+    "comboName": "02 thức uống đặc trưng + 1 tháp petit fours",
+    "comboPrice": "459.000đ",
+    "comboNote": "Đặt trước 2 giờ  |  Phục vụ 14:00 - 17:30",
+    "footer1": "Fine dining lounge  |  Dress code smart casual",
+    "footer2": "Mở cửa 10:00 - 23:00  |  Hotline 1900 2424"
+  },
+  "treTrung": {
+    "file": "sample_2.png",
+    "title": "SOO CAFE  -  DESSERT LAB",
+    "cat1": "BINGSU VÀ SOFT SERVE",
+    "items1": [
+      { "n": "Strawberry Bingsu", "p": "89.000đ", "d": "Đá tuyết, dâu Hàn, sữa đặc, marshmallow" },
+      { "n": "Injeolmi Soft Serve", "p": "75.000đ", "d": "Kem mềm, bột đậu nành, mochi" },
+      { "n": "Tiramisu Bingsu", "p": "95.000đ", "d": "Đá espresso, mascarpone, cacao" },
+      { "n": "Mango Coconut Bowl", "p": "82.000đ", "d": "Xoài chín, dừa, hạt chia, granola" },
+      { "n": "Chocolate Fondue Cup", "p": "79.000đ", "d": "Kem vani, chocolate 55%, chuối" }
+    ],
+    "cat2": "ĐỒ UỐNG CHO NGƯỜI TRẺ",
+    "items2": [
+      { "n": "Brown Sugar Milk Tea", "p": "52.000đ", "d": "Đường nâu nướng, trân châu đen" },
+      { "n": "Peach Ade Sparkling", "p": "48.000đ", "d": "Đào ngâm, soda, thạch đào" },
+      { "n": "Taro Cream Smoothie", "p": "55.000đ", "d": "Khoai môn, kem tươi, bột khoai" }
+    ],
+    "comboTag": "CHECK-IN COMBO",
+    "comboName": "01 Bingsu 2 người + 02 Peach Ade",
+    "comboPrice": "169.000đ",
+    "comboNote": "Tặng photocard  |  Decor neon để chụp"
+  },
+  "truyenThong": {
+    "file": "sample_2.png",
+    "tag": "- Hàng Chè Sân Vườn -",
+    "title": "HƯƠNG VỊ QUÊ NHÀ",
+    "sub": "Chè, tàu hũ, nước giải khát thủ công",
+    "cat1": "CHÈ TRUYỀN THỐNG",
+    "items1": [
+      { "n": "Chè Ba Màu Sài Gòn", "p": "32.000đ", "d": "Đậu xanh, đậu đỏ, rau câu, cốt dừa" },
+      { "n": "Chè Chuối Nướng", "p": "35.000đ", "d": "Chuối sốt đường thắng, dừa, mè" },
+      { "n": "Chè Thái Sài Gòn", "p": "38.000đ", "d": "Mít, nhãn, thạch, sữa đặc, đá bào" },
+      { "n": "Chè Trôi Nước Gừng", "p": "30.000đ", "d": "Bánh trôi đậu xanh, nước gừng ấm" },
+      { "n": "Tàu Hũ Nước Đường Gừng", "p": "28.000đ", "d": "Tàu hũ mềm, đường phèn, gừng" }
+    ],
+    "cat2": "NƯỚC GIẢI KHÁT NHÀ LÀM",
+    "items2": [
+      { "n": "Nước Dừa Tắc Mật Ong", "p": "29.000đ", "d": "Dừa tắc, mật ong, đá viên" },
+      { "n": "Sữa Đậu Nành Nóng", "p": "22.000đ", "d": "Đậu nành xay tươi, đường phèn" },
+      { "n": "Nước Cam Vắt", "p": "32.000đ", "d": "Cam Sành vắt tay, không đá đâm" },
+      { "n": "Trà Atiso Đà Lạt", "p": "28.000đ", "d": "Hoa atiso sấy, lạnh hoặc nóng" }
+    ],
+    "comboTag": "- Combo Chiều Mát -",
+    "comboName": "01 Chè Ba Màu + 01 Trà Atiso Đà Lạt",
+    "comboPrice": "52.000đ",
+    "comboNote": "Phục vụ cả ngày  |  Ăn tại quán hoặc mang về",
+    "footer": "Mở cửa 08:00 - 21:00  |  Sân vườn  |  1900 3333"
+  },
+  "minimal": {
+    "file": "sample_1.png",
+    "title": "THE LINEN ROOM",
+    "sub": "pour-over  -  pastry  -  quiet hours",
+    "cat1": "CÀ PHÊ POUR-OVER",
+    "items1": [
+      { "n": "Ethiopia Natural V60", "p": "75.000đ", "d": "Berry, jasmine, pour-over 28g" },
+      { "n": "Colombia Washed", "p": "68.000đ", "d": "Caramel, citrus, Chemex" },
+      { "n": "Vietnam Honey Process", "p": "62.000đ", "d": "Cầu Đất, hậu vị mật ong" },
+      { "n": "House Espresso", "p": "45.000đ", "d": "Blend 70/30, chocolate, hạt dẻ" },
+      { "n": "Cortado / Flat White", "p": "52.000đ", "d": "Sữa tươi, tỉ lệ ngắn gọn" }
+    ],
+    "cat2": "BÁNH MÌ LÒ",
+    "items2": [
+      { "n": "Butter Croissant", "p": "38.000đ", "d": "Bơ Pháp, nướng 2 lần / ngày" },
+      { "n": "Almond Pain", "p": "45.000đ", "d": "Hạnh nhân, kem almond" },
+      { "n": "Sourdough Toast", "p": "49.000đ", "d": "Bơ, mật ong, muối biển" },
+      { "n": "Banana Bread Slice", "p": "42.000đ", "d": "Chuối chín, óc chó" }
+    ],
+    "comboTag": "SET BUỔI SÁNG",
+    "comboName": "01 V60 + 01 Croissant bơ",
+    "comboPrice": "99.000đ",
+    "comboNote": "07:00 - 11:00  |  Không gian yên, wifi chậm",
+    "footer": "07:00 - 20:00  -  không gọi to  -  smartmenu.fnb.vn"
+  },
+  "nhietDoi": {
+    "file": "sample_1.png",
+    "tag": "TƯƠI 100%  -  KHÔNG SIRO",
+    "title": "TROPICAL PRESS",
+    "sub": "Nước ép, smoothie và trà hoa quả tươi",
+    "cat1": "SMOOTHIE BOWL",
+    "items1": [
+      { "n": "Green Detox", "p": "69.000đ", "d": "Cải kale, táo xanh, chanh, gừng" },
+      { "n": "Mango Sunrise", "p": "65.000đ", "d": "Xoài chín, dừa, chanh dây" },
+      { "n": "Dragon Berry", "p": "72.000đ", "d": "Thanh long, dâu, chuối, hạt chia" },
+      { "n": "Avocado Cocoa", "p": "75.000đ", "d": "Bơ, cacao, sữa hạt, mật ong" },
+      { "n": "Pineapple Mint Crush", "p": "62.000đ", "d": "Thơm, bạc hà, đá xay" }
+    ],
+    "cat2": "NƯỚC ÉP LẠNH",
+    "items2": [
+      { "n": "Cam - Cà Rốt - Gừng", "p": "58.000đ", "d": "Vitamin C, gừng cay nhẹ" },
+      { "n": "Dừa - Cải Xoăn", "p": "55.000đ", "d": "Dừa tươi, kale, táo" },
+      { "n": "Chanh Dây - Táo", "p": "52.000đ", "d": "Chanh dây, táo Fuji, mật ong" }
+    ],
+    "comboTag": "ƯU ĐÃI MÙA HÈ",
+    "comboName": "01 Smoothie Bowl + 01 nước ép lạnh",
+    "comboPrice": "109.000đ",
+    "comboNote": "Giảm 15%  |  10:00 - 16:00"
+  }
+}
