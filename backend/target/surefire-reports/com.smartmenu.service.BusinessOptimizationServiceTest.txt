@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: com.smartmenu.service.BusinessOptimizationServiceTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 2, Errors: 1, Skipped: 0, Time elapsed: 2.724 s <<< FAILURE! -- in com.smartmenu.service.BusinessOptimizationServiceTest
+com.smartmenu.service.BusinessOptimizationServiceTest.testRefinedProductClassificationRules -- Time elapsed: 0.010 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <KEEP> but was: <PRICE_DECREASE>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1145)
+	at com.smartmenu.service.BusinessOptimizationServiceTest.testRefinedProductClassificationRules(BusinessOptimizationServiceTest.java:122)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.smartmenu.service.BusinessOptimizationServiceTest.testCoffeeDatasetReducedPriorityAudit -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <KEEP> but was: <PRICE_DECREASE>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1145)
+	at com.smartmenu.service.BusinessOptimizationServiceTest.testCoffeeDatasetReducedPriorityAudit(BusinessOptimizationServiceTest.java:294)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.smartmenu.service.BusinessOptimizationServiceTest.testAiDesignerRenderSession999 -- Time elapsed: 0.315 s <<< ERROR!
+java.nio.file.AccessDeniedException: C:\Users\-ACER-
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:521)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:700)
+	at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:807)
+	at java.base/java.nio.file.Files.createDirectories(Files.java:793)
+	at com.smartmenu.service.BusinessOptimizationServiceTest.testAiDesignerRenderSession999(BusinessOptimizationServiceTest.java:232)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
